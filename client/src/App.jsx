@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import './App.css'
 import Item from './components/item'
+import Header from './components/Header'
 
 function App() {
   return (
     <>
-      <Item/>
+      <Header/>
     </>
   )
 }
