@@ -1,0 +1,14 @@
+.image-container {
+  display: flex;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.image-container img {
+  margin-right: 10px; /* Adjust the margin as per your preference */
+}
+
+.header {
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+  width: 100%; /*how to make header with the width of the screen?*/
+}
